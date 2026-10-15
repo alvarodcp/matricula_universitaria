@@ -59,7 +59,7 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="620" />
-              <mxPoint x="200" y="620" />
+              <mxPoint x="205.02" y="620" />
             </Array>
             <mxPoint x="630" y="570" as="sourcePoint" />
             <mxPoint x="490" y="540" as="targetPoint" />
@@ -91,6 +91,18 @@
         </mxCell>
         <mxCell id="EFt-NsNu4PJBEYKg7hrI-13" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Imprimir&amp;nbsp;&lt;div&gt;matricula_graduado&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="260" x="332" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="EFt-NsNu4PJBEYKg7hrI-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="EFt-NsNu4PJBEYKg7hrI-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="EFt-NsNu4PJBEYKg7hrI-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sí" vertex="1">
+          <mxGeometry height="30" width="60" x="457.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="EFt-NsNu4PJBEYKg7hrI-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sí" vertex="1">
+          <mxGeometry height="30" width="60" x="700" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
